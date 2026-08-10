@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<!-- skill:chrome -->
+<style>
+/* Credit line — bottom-right */
+.design-ui-credit {
+  position: fixed;
+  bottom: 12px;
+  right: 12px;
+  font: 11px/1 system-ui, sans-serif;
+  color: rgba(128,128,128,0.5);
+  pointer-events: none;
+  z-index: 2147483647;
+  transition: opacity 0.4s ease;
+  user-select: none;
+  letter-spacing: 0.02em;
+}
+
+/* Hide chrome on touch devices */
+@media (hover: none) {
+  .design-ui-credit { display: none; }
+}
+
+/* Print fixes */
+@media print {
+  * {
+    transition: none !important;
+    animation: none !important;
+    box-shadow: none !important;
+  }
+  body {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+  .design-ui-credit { display: none !important; }
+}
+
+.brand img {
+  width: 150px;
+  height: auto;
+  display: block;
+}
+
+@media (max-width: 720px) {
+  .brand img {
+    width: 125px;
+  }
+}
+</style>
+<script>
+(function () {
+    // Design-ui pages are single compositions, so the whole body is editable.
+    function markEditable() {
+        document.body.classList.add('artifact-editable');
+    }
+
+    // Credit badge with idle-fade. Hover devices only.
+    function initChromeUI() {
+        if (!matchMedia('(hover: hover)').matches) return;
+
+        var credit = document.createElement('div');
+        credit.className = 'design-ui-credit';
+        credit.setAttribute('aria-hidden', 'true');
+        credit.innerHTML = '\u{1F49C} by ClickUp Brain';
+        document.body.appendChild(credit);
+
+        var timer = null;
+        var fade = function (out) { credit.style.opacity = out ? '0' : ''; };
+        fade(true);
+        var show = function () {
+            fade(false);
+            clearTimeout(timer);
+            timer = setTimeout(function () { fade(true); }, 3000);
+        };
+        document.addEventListener('mousemove', show);
+        show();
+    }
+
+    function init() {
+        markEditable();
+        initChromeUI();
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+    } else {
+        init();
+    }
+})();
+
+</script>
+<!-- /skill:chrome -->
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mapa de salas TESTE · Anhanguera</title>
+<style>
+:root{--bg:#f7f5f0;--paper:#fffdf9;--ink:#302e2a;--muted:#777169;--line:#e4dfd7;--orange:#ed771f;--orange-dark:#b9510d;--graphite:#343331;--red:#b54435}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Arial,system-ui,sans-serif}header{background:var(--paper);border-bottom:1px solid var(--line)}.top {
+  background: var(--paper);
+  color: var(--ink);
+  border-bottom: 1px solid var(--line);
+}
+
+.status {
+  color: var(--muted);
+}
+
+.brand img {
+  width: 150px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+};padding:14px 5vw;display:flex;justify-content:center;gap:16px}.brand{font-weight:700}.brand b{display:inline-grid;place-items:center;width:25px;height:25px;margin-right:8px;border-radius:7px;background:var(--orange);color:#241b13}.status{color:#d7d1c8;font-size:13px}.wrap{max-width:1280px;margin:auto;padding:0 5vw}.hero{padding:42px 0 28px}.eyebrow{color:var(--orange-dark);font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase}.hero h1{margin:6px 0;font-size:clamp(32px,5vw,56px);line-height:1;letter-spacing:-.04em}.hero p{max-width:620px;color:var(--muted)}.controls{display:grid;grid-template-columns:1fr 1fr 1.2fr;gap:18px;padding:0 0 28px}.field label{display:block;margin-bottom:6px;color:var(--muted);font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase}select,input{width:100%;padding:12px;border:1px solid var(--line);border-radius:9px;background:#fff;font:inherit}select:focus,input:focus{outline:3px solid #f9d9bf;border-color:var(--orange)}.periodos{display:flex;gap:5px;flex-wrap:wrap}.periodos button{min-width:43px;height:42px;border:1px solid var(--line);border-radius:8px;background:transparent;font-weight:700;cursor:pointer}.periodos button.on{background:var(--orange);border-color:var(--orange);color:#271b12}.summary{display:flex;gap:20px;align-items:baseline;flex-wrap:wrap;padding:20px 0;border-top:2px solid var(--graphite);border-bottom:1px solid var(--line)}.summary h2{margin:0;font-size:22px}.summary span{color:var(--muted);font-size:14px}.grid{display:grid;grid-template-columns:repeat(5,1fr);gap:0;padding:28px 0 70px}.day{padding:0 18px;min-height:180px}.day:first-child{padding-left:0}.day+ .day{border-left:1px solid var(--line)}.day h3{margin:0 0 18px;padding-bottom:10px;border-bottom:1px solid var(--line);color:var(--muted);font-size:12px;letter-spacing:.1em;text-transform:uppercase}.lesson{padding:0 0 20px;margin-bottom:20px;border-bottom:1px dashed var(--line)}.time{color:var(--orange-dark);font-weight:700}.subject{margin-top:5px;font-weight:700}.teacher{color:var(--muted);font-size:14px}.room{margin-top:10px;font-size:24px;font-weight:700}.place{color:var(--muted);font-size:12px;text-transform:uppercase}.empty{color:var(--muted);font-size:14px}.state{margin:28px 0 70px;padding:50px 24px;text-align:center;border:1px dashed var(--line);border-radius:14px;background:var(--paper)}.state h2{margin:8px 0}.state p{color:var(--muted)}.state button{background:var(--orange);border:0;border-radius:8px;padding:11px 18px;font-weight:700;cursor:pointer}.setup{text-align:left;max-width:680px;margin:22px auto 0}.setup li{margin:8px 0}.setup code{background:#fff0e4;padding:2px 5px;border-radius:4px;color:var(--orange-dark)}footer{border-top:1px solid var(--line);padding:24px 0;color:var(--muted);font-size:13px}@media(max-width:850px){.controls{grid-template-columns:1fr}.grid{grid-template-columns:1fr;gap:24px}.day{padding:0}.day+.day{border-left:0;border-top:1px solid var(--line);padding-top:24px}.top{flex-wrap:wrap}}@media(prefers-reduced-motion:no-preference){.lesson{animation:up .25s ease-out both}@keyframes up{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}}
+</style>
+</head>
+<body>
+<div class="top"><div class="brand">
+  <img src="logo-anhanguera.png" alt="Anhanguera">
+</div><div class="status" id="status">Aguardando planilha</div></div>
+<header><div class="wrap"><div class="hero"><div class="eyebrow">Mapa acadêmico · turno matutino</div><h1>Mapa de salas</h1></div><div class="controls" id="controls" hidden><div class="field"><label>Curso</label><select id="course"></select></div><div class="field"><label>Período</label><div class="periodos" id="periods"></div></div><div class="field"><label>Buscar</label><input id="search" type="search" placeholder="sala, disciplina ou professor"></div></div></div></header>
+<main class="wrap"><div class="summary" id="summary" hidden><h2 id="title"></h2><span id="count"></span></div><section class="grid" id="grid" hidden></section><section class="state" id="setup"><h2>Conecte o CSV</h2><p>Publique o CSV em um endereço público e cole o link abaixo. Se preferir, teste um arquivo do computador.</p><div class="setup"><ol><li>Exporte o OpenOffice como CSV em <b>UTF-8</b>.</li><li>Use <b>;</b> como delimitador de campo e <b>"</b> como delimitador de texto.</li><li>Cole o link público do CSV ou selecione o arquivo.</li></ol><input id="url" type="url" placeholder="https://.../mapa.csv"><p><button id="connect">Conectar link</button> <button id="fileBtn" type="button">Escolher arquivo</button></p><input id="file" type="file" accept=".csv,text/csv" hidden></div></section><section class="state" id="error" hidden><h2>Não consegui ler o CSV</h2><p id="errorText"></p><button id="again">Tentar novamente</button></section></main><footer><div class="wrap">Divergência de sala? Fale com a coordenação do curso antes do início da aula.</div></footer>
+<script>
+const CSV_URL="mapa.csv"; // opcional: cole aqui o link público para abrir já conectado
+const $=id=>document.getElementById(id), DIAS={seg:1,segunda:1,ter:2,terca:2,qua:3,quarta:3,qui:4,quinta:4,sex:5,sexta:5,sab:6,sabado:6};
+const labels=['','Segunda','Terça','Quarta','Quinta','Sexta','Sábado']; let rows=[],courses=[],course=0,period=1,query='';
+function repair(s){
+  // Corrige UTF-8 interpretado como Latin-1/Windows-1252, por exemplo Ã§, Ã£, Ã .
+  for(let n=0;n<2;n++){
+    if(!/[ÃÂâ€š]/.test(s)) break;
+    const bytes=[]; for(const ch of s){const c=ch.charCodeAt(0);if(c<=255)bytes.push(c);else break}
+    try{const fixed=new TextDecoder('utf-8',{fatal:true}).decode(new Uint8Array(bytes)); if(fixed && fixed!==s){s=fixed;continue}}catch(e){} break;
+  } return s.replace(/â€“/g,'–').replace(/â€™/g,'’').replace(/â€œ/g,'“').replace(/â€/g,'”');
+}
+function csv(text){text=text.replace(/^\uFEFF/,'');const delim=(text.split('\n',1)[0].split(';').length>text.split('\n',1)[0].split(',').length)?';':',';let out=[],row=[],cell='',q=false;for(let i=0;i<text.length;i++){let c=text[i];if(q){if(c==='"'&&text[i+1]==='"'){cell+='"';i++}else if(c==='"')q=false;else cell+=c}else if(c==='"')q=true;else if(c===delim){row.push(cell);cell=''}else if(c==='\n'){row.push(cell);out.push(row);row=[];cell=''}else if(c!=='\r')cell+=c}if(cell||row.length){row.push(cell);out.push(row)}return out}
+function parse(text){const lines=csv(text);if(!lines.length)throw Error('arquivo vazio');const h=lines[0].map(x=>repair(x).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim()), find=(...names)=>h.findIndex(x=>names.includes(x));const i={prof:find('professor','docente'),disc:find('disciplina','materia'),course:find('curso'),sem:find('semestre','periodo'),hour:find('horario','hora'),day:find('dia da semana','dia'),room:find('sala'),floor:find('andar')};if(i.course<0||i.day<0||i.room<0)throw Error('faltam as colunas Curso, Dia da Semana ou Sala');const get=(r,k)=>i[k]>=0?repair((r[i[k]]||'').trim()):'';let a=[];for(const r of lines.slice(1)){const d=DIAS[repair(get(r,'day')).toLowerCase()];const c=get(r,'course');if(!c||!d)continue;a.push({course:c,sem:parseInt(get(r,'sem'))||0,day:d,hour:get(r,'hour').slice(0,5),disc:get(r,'disc')||'Disciplina não informada',prof:get(r,'prof')||'A definir',room:get(r,'room')||'A definir',place:get(r,'floor')==='T'?'Térreo - Clínica Veterinária':get(r,'floor')})}if(!a.length)throw Error('nenhuma linha de aula reconhecida');return a}
+async function load(url){$('status').textContent='Lendo CSV…';try{let r=await fetch(url+(url.includes('?')?'&':'?')+'_t='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);let b=await r.arrayBuffer(),text;try{text=new TextDecoder('utf-8',{fatal:true}).decode(b)}catch(e){text=new TextDecoder('windows-1252').decode(b)};apply(parse(text));localStorage.setItem('csvUrl',url);$('status').textContent='CSV atualizado agora'}catch(e){$('errorText').textContent=e.message;$('setup').hidden=true;$('error').hidden=false;$('status').textContent='Erro ao carregar'}}
+function apply(data){rows=data;courses=[...new Set(rows.map(x=>x.course))].sort((a,b)=>a.localeCompare(b,'pt-BR'));course=0;period=[...new Set(rows.filter(x=>x.course===courses[0]).map(x=>x.sem))].sort((a,b)=>a-b)[0]||1;$('course').innerHTML=courses.map((x,i)=>`<option value="${i}">${x}</option>`).join('');$('controls').hidden=false;$('summary').hidden=false;$('setup').hidden=true;$('error').hidden=true;periods();render()}
+function periods(){const ps=[...new Set(rows.filter(x=>x.course===courses[course]&&x.disc&&x.disc!=='Disciplina não informada').map(x=>x.sem))].filter(p=>p>0).sort((a,b)=>a-b);$('periods').innerHTML=ps.map(n=>`<button class="${n===period?'on':''}" data-p="${n}">${n}º</button>`).join('')}
+function render(){let data=rows.filter(x=>x.course===courses[course]&&x.sem===period);if(query)data=rows.filter(x=>[x.course,x.disc,x.prof,x.room,x.place].some(v=>repair(v).toLowerCase().includes(query.toLowerCase())));$('title').textContent=query?`Busca: “${query}”`:`${courses[course]} · ${period}º período`;$('count').textContent=`${data.length} aula${data.length===1?'':'s'}`;$('grid').hidden=!data.length;if(!data.length){$('grid').innerHTML='<div class="empty">Nenhuma aula encontrada.</div>';return}let n=0;$('grid').innerHTML=[1,2,3,4,5,6].filter(d=>data.some(x=>x.day===d)).map(d=>`<section class="day"><h3>${labels[d]}</h3>${data.filter(x=>x.day===d).sort((a,b)=>a.hour.localeCompare(b.hour)).map(x=>`<article class="lesson" style="--n:${n++}"><div class="time">${x.hour||'Horário não informado'}</div><div class="subject">${x.disc}</div><div class="teacher">${x.prof}</div><div class="room">SALA: ${x.room}</div><div class="place"> Andar: ${x.place}</div></article>`).join('')}</section>`).join('')}
+$('course').onchange=e=>{course=+e.target.value;periods();render()};$('periods').onclick=e=>{if(e.target.dataset.p){period=+e.target.dataset.p;periods();render()}};$('search').oninput=e=>{query=e.target.value.trim();render()};$('connect').onclick=()=>{const u=$('url').value.trim();if(u)load(u)};$('fileBtn').onclick=()=>$('file').click();$('file').onchange=e=>{const f=e.target.files[0];if(!f)return;const fr=new FileReader();fr.onload=()=>{try{apply(parse(fr.result));$('status').textContent='Arquivo local carregado'}catch(err){$('errorText').textContent=err.message;$('setup').hidden=true;$('error').hidden=false}};fr.readAsText(f)};$('again').onclick=()=>{$('error').hidden=true;$('setup').hidden=false};
+const initial=CSV_URL||localStorage.getItem('csvUrl');if(initial)load(initial);
+</script></body></html>
