@@ -7,8 +7,8 @@ ROSANGELA REIS DA SILVA;Bacteriologia Clinica;A;19:00;Seg;A;1º;129;A1º;26;36;1
 LEONARDO NUNES DINIZ;Cinesioterapia Aplicada;A;19:00;Seg;A;1º;136;A1º;14;21;7;Fisioterapia;3
 LEONARDO NUNES DINIZ;Cinesioterapia Aplicada;A;19:00;Seg;A;1º;136;A1º;14;21;7;Fisioterapia;4
 AUGUSTO CAMPOS BUTENCO;Clinica Ampliada em Saude Mental;A;19:30;Seg;A;1º;103;A1º;29;41;12;Psicologia;10
-NAIRA;Clinica Integrada de Assistencia Odontologica III;A;19:00;Seg;A;2º;205;A2º;20;25;5;Odontologia;1
-REGINA MOTA DE CARVALHO;Clinica Odontologica para o Bebe, a Gestante e a Puerpera;A;19:00;Seg;A;2º;203;A2º;20;26;6;Odontologia;1
+NAIRA;Clinica Integrada de Assistencia Odontologica III;A;19:00;Seg;A;2º;205;A2º;20;25;5;Odontologia;
+REGINA MOTA DE CARVALHO;Clinica Odontologica para o Bebe, a Gestante e a Puerpera;A;19:00;Seg;A;2º;203;A2º;20;26;6;Odontologia;
 WASHINGTON FERREIRA XIMENES DE ALBUQUERQUE;Controle de Vibracoes;A;19:00;Seg;A;1º;133;A1º;11;24;13;Engenharia Mecânica;10
 RUAN AUGUSTO MONTEIRO DE SOUSA;Diagnostico por Imagem Aplicado a Medicina Veterinaria;A;21:00;Seg;A;T;1;AT;7;;;Medicina Veterinária;8
 BRUNA CAMPOS FERREIRA;Direito Civil - Familia;A;19:00;Seg;A;1º;123;A1º;36;41;5;Direito;8
@@ -21,7 +21,7 @@ PAULO HENRIQUE;Eletromagnetismo;A;19:00;Seg;A;1º;132;A1º;11;20;9;Engenharia El
 PAULO HENRIQUE;Eletromagnetismo;A;19:00;Seg;A;1º;132;A1º;11;20;9;Engenharia Elétrica;6
 ALINE DE FÁTIMA;Enfermagem na Saude da Mulher;A;19:00;Seg;A;1º;116;A1º;20;26;6;Enfermagem;6
 ALINE DE FÁTIMA;Enfermagem na Saude da Mulher;A;19:00;Seg;A;1º;116;A1º;20;26;6;Enfermagem;7
-YURI CAVALCANTE;Estagio em Saude Coletiva - Estrategia de Saude da Familia;A;19:00;Seg;A;1º;111;A1º;48;74;26;Odontologia;1
+YURI CAVALCANTE;Estagio em Saude Coletiva - Estrategia de Saude da Familia;A;19:00;Seg;A;1º;111;A1º;48;74;26;Odontologia;
 THIAGO HENRIQUE SILVA;Farmacia Clinica;A;19:00;Seg;A;1º;135;A1º;13;21;8;Farmácia;5
 BIANCA SOARES PIERRE ASSUMPCAO;Fisica Geral e Experimental - Energia;A;19:00;Seg;A;1º;143;A1º;9;20;11;Engenharia Elétrica;2
 ANA PAULA SANTANA DO VALE;Fisioterapia na Atencao Secundaria;A;19:00;Seg;A;1º;137;A1º;20;24;4;Fisioterapia;6
@@ -46,9 +46,10 @@ ANDREIA AGUIAR SOUSA;Modelos de Gestao;A;19:00;Seg;A;1º;105;A1º;31;42;11;Admin
 CAMILA LEITE PEREIRA;Neuroanatomofisiologia;A;19:00;Seg;A;1º;109;A1º;46;60;14;Psicologia;1
 CAMILA LEITE PEREIRA;Neuroanatomofisiologia;A;19:00;Seg;A;1º;109;A1º;46;60;14;Psicologia;2
 AMANDA;Nutricao Animal;A;19:00;Seg;A;1º;110;A1º;26;37;11;Medicina Veterinária;4
-ALESSAH CAROLYNA DE ANDRADE FERNANDES;Odontologia Cirurgica e Farmacoterapia;A;19:00;Seg;A;1º;128;A1º;41;47;6;Odontologia;1
-PEDRO AUGUSTO FERNANDES;Odontologia na Saude Coletiva;A;19:00;Seg;A;1º;119;A1º;22;32;10;Odontologia;1
-JEANE;Odontologia Pre-Clinica - Reabilitacao dentaria Unitaria e Parcial Fixas;A;19:00;Seg;A;1º;126;A1º;30;41;11;Odontologia;1
+ALESSAH CAROLYNA DE ANDRADE FERNANDES;Odontologia Cirurgica e Farmacoterapia;A;19:00;Seg;A;1º;128;A1º;41;47;6;Odontologia;
+PEDRO AUGUSTO FERNANDES;Odontologia na Saude Coletiva;A;19:00;Seg;A;1º;119;A1º;22;32;10;Odontologia;
+ANA BEATRIZ TEODORO;Odontologia Pre-Clinica - Propedeutica e Imaginologia;A;19:00;Seg;A;1º;142;A1º;8;18;10;Odontologia;
+JEANE;Odontologia Pre-Clinica - Reabilitacao dentaria Unitaria e Parcial Fixas;A;19:00;Seg;A;1º;126;A1º;30;41;11;Odontologia;
 ADRIAN BRITO BARTOLOMEU;Orientaçao TCC;A;20:50;Seg;A;1º;134;A1º;12;21;9;Biomedicina;10
 ADRIAN BRITO BARTOLOMEU;Orientaçao TCC;A;20:50;Seg;A;1º;134;A1º;12;21;9;Enfermagem;10
 ADRIAN BRITO BARTOLOMEU;Orientaçao TCC;A;20:50;Seg;A;1º;134;A1º;12;21;9;Farmácia;10
@@ -62,6 +63,7 @@ SYNDEL RUZICKA;Quimica Geral;A;19:00;Seg;A;2º;206;A2º;35;65;30;Agronomia;1
 SYNDEL RUZICKA;Quimica Geral;A;19:00;Seg;A;2º;206;A2º;35;65;30;Farmácia;1
 ADERCIO BRAGA SANTANA JUNIOR;Sistemas Eletricos de Potencia Avancados;A;19:00;Seg;A;1º;145;A1º;7;15;8;Engenharia Elétrica;10
 CASSIANA NUNES BARBOSA;Sistematizacao da Assistencia de Enfermagem;A;19:00;Seg;A;1º;115;A1º;23;27;4;Enfermagem;4
+;;;;;;;;;;;;;
 OTTONI RODRIGUES OLIVEIRA;Aconselhamento e Orientacao em Psicologia;A;19:30;Ter;A;1º;123;A1º;36;41;5;Psicologia;4
 OTTONI RODRIGUES OLIVEIRA;Aconselhamento e Orientacao em Psicologia;A;19:30;Ter;A;1º;123;A1º;36;41;5;Psicologia;6
 OTTONI RODRIGUES OLIVEIRA;Aconselhamento e Orientacao em Psicologia;A;19:30;Ter;A;1º;123;A1º;36;41;5;Psicologia;8
@@ -73,11 +75,11 @@ MARA SOARES DE ALMEIDA MOTA;Cien. Morfofuncionais dos Sistemas Imune e Hematolog
 MARA SOARES DE ALMEIDA MOTA;Cien. Morfofuncionais dos Sistemas Imune e Hematologico;A;19:00;Ter;A;1º;102;A1º;90;88;-2;Farmácia;4
 LUIS FERNANDO FELICORI MACHADO;Cien. Morfofuncionais Vet. Aplic. ao Sist. Digestorio e Glandulas Anexas;A;19:00;Ter;A;T;1;AT;32;;;Medicina Veterinária;1
 LUIS FERNANDO FELICORI MACHADO;Cien. Morfofuncionais Vet. Aplic. ao Sist. Digestorio e Glandulas Anexas;A;19:00;Ter;A;T;1;AT;32;;;Medicina Veterinária;2
-MARIA RITA TOSCANO;Ciencias Moleculares e Celulares;A;19:00;Ter;A;1º;110;A1º;22;37;15;Odontologia;1
+MARIA RITA TOSCANO;Ciencias Moleculares e Celulares;A;19:00;Ter;A;1º;110;A1º;22;37;15;Odontologia;
 FERNANDA NATHALY LEITE MARTINS;Ciências Morfofuncionais dos Sistemas Nervoso e Cardiorrespiratório;A;19:00;Ter;A;1º;109;A1º;50;60;10;Farmácia;1
 FERNANDA NATHALY LEITE MARTINS;Ciências Morfofuncionais dos Sistemas Nervoso e Cardiorrespiratório;A;19:00;Ter;A;1º;109;A1º;50;60;10;Biomedicina;2
-REGINA MOTA DE CARVALHO;Clinica Integrada de Atencao a Crianca I;A;20:00;Ter;A;1º;113;A1º;20;28;8;Odontologia;1
-PEDRO AUGUSTO FERNANDES;Clinica Integrada de Atencao a Pessoa Com Deficiencia;A;18:00;Ter;A;1º;107;A1º;40;42;2;Odontologia;1
+REGINA MOTA DE CARVALHO;Clinica Integrada de Atencao a Crianca I;A;20:00;Ter;A;2º;204;A2º;20;26;6;Odontologia;
+PEDRO AUGUSTO FERNANDES;Clinica Integrada de Atencao a Pessoa Com Deficiencia;A;18:00;Ter;A;1º;107;A1º;40;42;2;Odontologia;
 ANDREIA AGUIAR SOUSA;Desenvolvimento de Pessoas;A;19:00;Ter;A;1º;136;A1º;17;21;4;Administração;6
 THAYNARA MOURA CURADO MACEDO;Desenvolvimento Humano II;A;19:00;Ter;A;2º;206;A2º;59;65;6;Psicologia;2
 THAYNARA MOURA CURADO MACEDO;Desenvolvimento Humano II;A;19:00;Ter;A;2º;206;A2º;59;65;6;Psicologia;3
@@ -88,41 +90,40 @@ PATRICIA RIBEIRO;Direito Previdenciario;A;19:00;Ter;A;1º;106;A1º;36;47;11;Dire
 MARA SOARES DE ALMEIDA MOTA;Estagio em Saude Coletiva - Gestao do Sus;A;17:00;Ter;A;1º;105;A1º;20;42;22;;
 GUSTAVO ANDRADE DO VALE;Farmacologia e Toxicologia Aplicadas a Medicina Veterinaria;A;19:00;Ter;A;1º;132;A1º;16;20;4;Medicina Veterinária;5
 GUSTAVO ANDRADE DO VALE;Farmacologia e Toxicologia Aplicadas a Medicina Veterinaria;A;19:00;Ter;A;1º;132;A1º;16;20;4;Medicina Veterinária;6
-NATALIA CRISTINA DE SOUZA;Fisiopatologia da Reprodução Aplicada Medicina Veterinária;A;21:00;Ter;A;1º;103;A1º;7;41;34;Medicina Veterinária;6
-NATALIA CRISTINA DE SOUZA;Fisiopatologia da Reprodução Aplicada Medicina Veterinária;A;21:00;Ter;A;1º;103;A1º;7;41;34;Medicina Veterinária;7
+NATALIA CRISTINA DE SOUZA;Fisiopatologia da Reprodução Aplicada Medicina Veterinária;A;21:00;Ter;A;1º;130;A1º;23;34;11;Medicina Veterinária;6
+NATALIA CRISTINA DE SOUZA;Fisiopatologia da Reprodução Aplicada Medicina Veterinária;A;21:00;Ter;A;1º;130;A1º;23;34;11;Medicina Veterinária;7
 ANNA PAULA BRAZ DE CARVALHO;Fisioterapia em Unidade Hospitalar;A;19:30;Ter;A;1º;129;A1º;20;36;16;Fisioterapia;6
 ANNA PAULA BRAZ DE CARVALHO;Fisioterapia em Unidade Hospitalar;A;19:30;Ter;A;1º;129;A1º;20;36;16;Fisioterapia;8
 VALERIA LIMA DA SILVA;Fitotecnia - Algodao e Cafe;A;19:00;Ter;A;1º;140;A1º;10;18;8;Agronomia;10
-ADRIANA;Fruticultura;A;21:00;Ter;A;1º;114;A1º;19;30;11;Agronomia;3
-ADRIANA;Fruticultura;A;21:00;Ter;A;1º;114;A1º;19;30;11;Agronomia;4
-ADRIANA;Fruticultura;A;21:00;Ter;A;1º;114;A1º;19;30;11;Agronomia;6
+ADRIANA;Fruticultura;A;21:00;Ter;A;1º;113;A1º;19;28;9;Agronomia;3
+ADRIANA;Fruticultura;A;21:00;Ter;A;1º;113;A1º;19;28;9;Agronomia;4
+ADRIANA;Fruticultura;A;21:00;Ter;A;1º;113;A1º;19;28;9;Agronomia;6
 BIANCA SOARES PIERRE ASSUMPCAO;Fundamentos de Calculo Aplicado;A;19:00;Ter;A;1º;142;A1º;17;18;1;Agronomia;1
 BIANCA SOARES PIERRE ASSUMPCAO;Fundamentos de Calculo Aplicado;A;19:00;Ter;A;1º;142;A1º;17;18;1;Agronomia;2
 NIVEA MOREIRA;Fundamentos e Assistência de Enfermagem em Paciente Crítico;A;19:00;Ter;A;1º;137;A1º;6;24;18;Técnico Em Enfermagem;1
-CAIO CESAR MEDEIROS DA SILVA;Fundamentos Semiologicos de Enfermagem;A;19:00;Ter;A;1º;128;A1º;49;47;-2;Enfermagem;2
-CAIO CESAR MEDEIROS DA SILVA;Fundamentos Semiologicos de Enfermagem;A;19:00;Ter;A;1º;128;A1º;49;47;-2;Enfermagem;3
+CAIO CESAR MEDEIROS DA SILVA;Fundamentos Semiologicos de Enfermagem;A;19:00;Ter;A;2º;207;A2º;49;64;15;Enfermagem;2
+CAIO CESAR MEDEIROS DA SILVA;Fundamentos Semiologicos de Enfermagem;A;19:00;Ter;A;2º;207;A2º;49;64;15;Enfermagem;3
 CASSIANA NUNES BARBOSA;Fundamentos Tecnicos de Enfermagem;A;19:00;Ter;A;1º;144;A1º;20;24;4;Enfermagem;4
-ELISA;Genetica e Melhoramento de Plantas e Animais;A;19:00;Ter;A;1º;114;A1º;23;30;7;Agronomia;3
-ELISA;Genetica e Melhoramento de Plantas e Animais;A;19:00;Ter;A;1º;114;A1º;23;30;7;Agronomia;4
-ELISA;Genetica e Melhoramento de Plantas e Animais;A;19:00;Ter;A;1º;114;A1º;23;30;7;Agronomia;6
-ELISA;Genetica e Melhoramento de Plantas e Animais;A;19:00;Ter;A;1º;114;A1º;23;30;7;Agronomia;8
+ELISA;Genetica e Melhoramento de Plantas e Animais;A;19:00;Ter;A;1º;113;A1º;23;28;5;Agronomia;3
+ELISA;Genetica e Melhoramento de Plantas e Animais;A;19:00;Ter;A;1º;113;A1º;23;28;5;Agronomia;4
+ELISA;Genetica e Melhoramento de Plantas e Animais;A;19:00;Ter;A;1º;113;A1º;23;28;5;Agronomia;6
+ELISA;Genetica e Melhoramento de Plantas e Animais;A;19:00;Ter;A;1º;113;A1º;23;28;5;Agronomia;8
 HEREN NEPOMUCENO COSTA PAIXAO;Gestao de Pessoas;A;19:00;Ter;A;1º;104;A1º;44;52;8;Administração;2
 HEREN NEPOMUCENO COSTA PAIXAO;Gestao de Pessoas;A;19:00;Ter;A;1º;104;A1º;44;52;8;Administração;4
 RAQUEL NUNES DA SILVA;Gestao de Projetos;A;19:00;Ter;A;1º;133;A1º;12;24;12;Administração;8
 MICHELLE DA SILVA ALVES;Medicina Veterinaria Preventiva e Controle de Zoonoses;A;19:00;Ter;A;1º;141;A1º;7;16;9;Medicina Veterinária;7
-ANA LUCIA FERNANDES DA SILVA;Odontologia Pre-Clinica - Agravos a Oclusao dentaria;A;19:00;Ter;A;2º;205;A2º;9;25;16;Odontologia;1
-ALESSAH CAROLYNA DE ANDRADE FERNANDES;Odontologia Pre-Clinica - Propedeutica e Imaginologia;A;19:00;Ter;A;1º;138;A1º;8;18;10;Odontologia;1
-DEBORA DA SILVA BRANDAO;Odontologia Pre-Clinica - Reabilitacao dentaria Parcial e Total Removiveis;A;19:00;Ter;A;1º;103;A1º;30;41;11;Odontologia;1
-EDEN GOMES RODRIGUES;Patologia Geral;A;19:00;Ter;A;1º;130;A1º;6;34;28;Biomedicina;3
+ANA LUCIA FERNANDES DA SILVA;Odontologia Pre-Clinica - Agravos a Oclusao dentaria;A;19:00;Ter;A;2º;205;A2º;9;25;16;Odontologia;
+DEBORA DA SILVA BRANDAO;Odontologia Pre-Clinica - Reabilitacao dentaria Parcial e Total Removiveis;A;19:00;Ter;A;1º;103;A1º;30;41;11;Odontologia;
+EDEN GOMES RODRIGUES;Patologia Geral;A;19:00;Ter;A;1º;139;A1º;6;16;10;Biomedicina;3
 ELISANGELA DE ALBUQUERQUE SOBREIRA;Patologia Veterinaria Geral;A;19:00;Ter;A;T;2;AT;27;;;Medicina Veterinária;3
 ELISANGELA DE ALBUQUERQUE SOBREIRA;Patologia Veterinaria Geral;A;19:00;Ter;A;T;2;AT;27;;;Medicina Veterinária;4
-FERNANDA DE SOUZA PADUA MARQUES;Planejamento Financeiro e Orcamentario;A;19:00;Ter;A;1º;125;A1º;29;42;13;Ciências Contábeis;2
-FERNANDA DE SOUZA PADUA MARQUES;Planejamento Financeiro e Orcamentario;A;19:00;Ter;A;1º;125;A1º;29;42;13;Administração;3
-FERNANDA DE SOUZA PADUA MARQUES;Planejamento Financeiro e Orcamentario;A;19:00;Ter;A;1º;125;A1º;29;42;13;Administração;5
+FERNANDA DE SOUZA PADUA MARQUES;Planejamento Financeiro e Orcamentario;A;19:00;Ter;A;1º;111;A1º;29;74;45;Ciências Contábeis;2
+FERNANDA DE SOUZA PADUA MARQUES;Planejamento Financeiro e Orcamentario;A;19:00;Ter;A;1º;111;A1º;29;74;45;Administração;3
+FERNANDA DE SOUZA PADUA MARQUES;Planejamento Financeiro e Orcamentario;A;19:00;Ter;A;1º;111;A1º;29;74;45;Administração;5
 ROSANGELA REIS DA SILVA;Praticas Aplicadas em Bioquimica e Imunologia Clinica;A;19:00;Ter;A;1º;108;A1º;36;43;7;Biomedicina;7
 ROSANGELA REIS DA SILVA;Praticas Aplicadas em Bioquimica e Imunologia Clinica;A;19:00;Ter;A;1º;108;A1º;36;43;7;Biomedicina;8
-EVELLYN CHRISTINE CARVALHO DE SANTANA;Principios de Audiologia;A;19:00;Ter;A;2º;204;A2º;23;26;3;Fonoaudiologia;1
-EVELLYN CHRISTINE CARVALHO DE SANTANA;Principios de Audiologia;A;19:00;Ter;A;2º;204;A2º;23;26;3;Fonoaudiologia;2
+EVELLYN CHRISTINE CARVALHO DE SANTANA;Principios de Audiologia;A;19:00;Ter;A;1º;114;A1º;23;30;7;Fonoaudiologia;1
+EVELLYN CHRISTINE CARVALHO DE SANTANA;Principios de Audiologia;A;19:00;Ter;A;1º;114;A1º;23;30;7;Fonoaudiologia;2
 AUGUSTO CAMPOS BUTENCO;Psicopatologia II;A;19:30;Ter;A;1º;131;A1º;16;21;5;Psicologia;7
 WASHINGTON FERREIRA XIMENES DE ALBUQUERQUE;Quimica e Ciencia dos Materiais;A;19:00;Ter;A;1º;135;A1º;16;21;5;Engenharia Elétrica;2
 WASHINGTON FERREIRA XIMENES DE ALBUQUERQUE;Quimica e Ciencia dos Materiais;A;19:00;Ter;A;1º;135;A1º;16;21;5;Engenharia Mecânica;2
@@ -132,6 +133,7 @@ ANA PAULA SANTANA DO VALE;Recursos Terapeuticos Manuais;A;19:30;Ter;A;2º;203;A2
 ADERCIO BRAGA SANTANA JUNIOR;Sistemas Digitais e Microprocessadores;A;19:00;Ter;A;1º;112;A1º;5;13;8;Engenharia Elétrica;6
 ADRIAN BRITO BARTOLOMEU;Tecnologia Farmaceutica II;A;19:00;Ter;A;1º;115;A1º;20;27;7;Farmácia;8
 FABIANE MARINHO GOMES;Teoria Geral do Direito Constitucional;A;19:00;Ter;A;1º;143;A1º;10;20;10;Direito;1
+;;;;;;;;;;;;;
 THIAGO HENRIQUE SILVA;Assistencia Farmaceutica;A;19:00;Qua;A;1º;110;A1º;33;37;4;Farmácia;2
 EDEN GOMES RODRIGUES;Biotecnologia e Producao de Alimentos;A;19:00;Qua;A;1º;136;A1º;18;21;3;Farmácia;10
 JEAN JOSE LIMA DE BASTOS;Calculo Diferencial e Integral II;A;19:00;Qua;A;1º;143;A1º;15;20;5;Engenharia Elétrica;2
@@ -140,18 +142,18 @@ CAIO SALES DA COSTA;Caprinocultura e Ovinocultura;A;19:00;Qua;A;T;1;AT;36;;;Medi
 CAIO SALES DA COSTA;Caprinocultura e Ovinocultura;A;19:00;Qua;A;T;1;AT;36;;;Medicina Veterinária;6
 CAIO SALES DA COSTA;Caprinocultura e Ovinocultura;A;19:00;Qua;A;T;1;AT;36;;;Medicina Veterinária;7
 CAIO SALES DA COSTA;Caprinocultura e Ovinocultura;A;19:00;Qua;A;T;1;AT;36;;;Medicina Veterinária;8
-FERNANDA NATHALY LEITE MARTINS;Cien. Morfofuncionais Aplicadas a Odontologia;A;19:00;Qua;A;1º;130;A1º;22;34;12;Odontologia;1
+FERNANDA NATHALY LEITE MARTINS;Cien. Morfofuncionais Aplicadas a Odontologia;A;19:00;Qua;A;1º;130;A1º;22;34;12;Odontologia;
 CAMILA LEITE PEREIRA;Cien. Morfofuncionais dos Sistemas Digestorio, Endocrino e Renal;A;19:00;Qua;A;1º;128;A1º;40;47;7;Biomedicina;1
 CAMILA LEITE PEREIRA;Cien. Morfofuncionais dos Sistemas Digestorio, Endocrino e Renal;A;19:00;Qua;A;1º;128;A1º;40;47;7;Enfermagem;1
 CAMILA LEITE PEREIRA;Cien. Morfofuncionais dos Sistemas Digestorio, Endocrino e Renal;A;19:00;Qua;A;1º;128;A1º;40;47;7;Farmácia;1
 CAMILA LEITE PEREIRA;Cien. Morfofuncionais dos Sistemas Digestorio, Endocrino e Renal;A;19:00;Qua;A;1º;128;A1º;40;47;7;Fonoaudiologia;1
+ADRIAN BRITO BARTOLOMEU;Cien. Morfofuncionais dos Sistemas Nervoso e Cardiorrespiratorio;A;19:00;Qua;A;1º;113;A1º;21;28;7;Fonoaudiologia;2
 CAIO CESAR MEDEIROS DA SILVA;Cien. Morfofuncionais dos Sistemas Nervoso e Cardiorrespiratorio;A;19:00;Qua;A;1º;102;A1º;90;88;-2;Enfermagem;2
 CAIO CESAR MEDEIROS DA SILVA;Cien. Morfofuncionais dos Sistemas Nervoso e Cardiorrespiratorio;A;19:00;Qua;A;1º;102;A1º;90;88;-2;Fisioterapia;2
-ADRIAN BRITO BARTOLOMEU;Cien. Morfofuncionais dos Sistemas Nervoso e Cardiorrespiratorio;A;19:00;Qua;A;1º;113;A1º;21;28;7;Fonoaudiologia;2
-——— A CONTRATAR ———;Ciencias Patologicas Aplicadas a Odontologia;A;19:00;Qua;A;1º;108;A1º;38;43;5;Odontologia;1
-LUDYMILLA DE LIMA LOPES;Clinica de Propedeutica e Biopsia Bucal;A;19:00;Qua;A;1º;119;A1º;18;32;14;Odontologia;1
+——— A CONTRATAR ———;Ciencias Patologicas Aplicadas a Odontologia;A;19:00;Qua;A;1º;108;A1º;38;43;5;Odontologia;
+LUDYMILLA DE LIMA LOPES;Clinica de Propedeutica e Biopsia Bucal;A;19:00;Qua;A;1º;119;A1º;18;32;14;Odontologia;
 LUDYMILLA DE LIMA LOPES;Clinica Integrada de Reabilitacao Oral I;A;18:00;Qua;A;1º;137;A1º;20;24;4;Odontologia;
-LUDMYLLA GOMES E SILVA;Clinica Integrada de Reabilitacao Oral II;A;18:00;Qua;A;1º;140;A1º;11;18;7;Odontologia;1
+LUDMYLLA GOMES E SILVA;Clinica Integrada de Reabilitacao Oral II;A;18:00;Qua;A;1º;140;A1º;11;18;7;Odontologia;
 PAULO HENRIQUE;Compatibilidade e Interferencia Eletromagnetica;A;21:00;Qua;A;1º;103;A1º;8;41;33;Engenharia Elétrica;10
 BEIJANICY FERREIRA DA CUNHA ABADIA VALIM;Direito Administrativo - Administracao Publica;A;19:00;Qua;A;1º;126;A1º;36;41;5;Direito;5
 BEIJANICY FERREIRA DA CUNHA ABADIA VALIM;Direito Administrativo - Administracao Publica;A;19:00;Qua;A;1º;126;A1º;36;41;5;Direito;7
@@ -195,6 +197,7 @@ SUZANNA MARTINS COSTA;Seminario Integrador na Saude da Crianca;A;19:00;Qua;A;1º
 HEREN NEPOMUCENO COSTA PAIXAO;Teorias e Tecnicas de Grupo;A;19:00;Qua;A;1º;141;A1º;8;16;8;Psicologia;5
 THAYNARA MOURA CURADO MACEDO;Teorias e Tecnicas Psicoterapicas Especiais;A;19:30;Qua;A;1º;114;A1º;27;30;3;Psicologia;8
 ALINE DE FÁTIMA;Urgência e Emergência;A;19:00;Qua;A;1º;129;A1º;20;36;16;Enfermagem;8
+;;;;;;;;;;;;;
 VALERIA LIMA DA SILVA;Agrostologia e Forragicultura;A;19:00;Qui;A;1º;129;A1º;27;36;9;Medicina Veterinária;4
 EDEN GOMES RODRIGUES;Analises Fisico-Quimicas e Microbiologicas de Alimentos;A;19:00;Qui;A;2º;204;A2º;21;26;5;Farmácia;5
 ADERCIO BRAGA SANTANA JUNIOR;Automacao de Processos Industriais;A;19:00;Qui;A;1º;141;A1º;8;16;8;Engenharia Elétrica;4
@@ -242,6 +245,7 @@ NIVEA MOREIRA;Relações Sociais, Sustentabilidade e Ética;A;19:00;Qui;A;1º;14
 OTTONI RODRIGUES OLIVEIRA;Teorias e Tecnicas Psicoterapicas Gerais;A;19:00;Qui;A;1º;136;A1º;17;21;4;Psicologia;7
 PHILIP TELES SOARES;Virologia e Micologia Aplicadas a Medicina Veterinaria;A;19:00;Qui;A;T;2;AT;10;;;Medicina Veterinária;5
 PHILIP TELES SOARES;Virologia e Micologia Aplicadas a Medicina Veterinaria;A;19:00;Qui;A;T;2;AT;10;;;Medicina Veterinária;6
+;;;;;;;;;;;;;
 RAQUEL NUNES DA SILVA;Analise de Custos;A;19:00;Sex;A;1º;134;A1º;16;21;5;Administração;4
 REGINA MOTA DE CARVALHO;Atencao Odontologica nos Ciclos de Vida - Bebes, Criancas e Adolescentes;A;18:00;Sex;A;1º;119;A1º;27;32;5;Odontologia;
 LUDYMILLA DE LIMA LOPES;Atencao Odontologica nos Ciclos de Vida - Idosos e Grupos Especiais;A;21:00;Sex;A;1º;126;A1º;36;41;5;Odontologia;
