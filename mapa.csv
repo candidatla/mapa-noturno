@@ -45,8 +45,8 @@ LUDIMILA TEIXEIRA SILVA;Medidas e Avaliacao em Psicologia III;A;19:00;Seg;A;1º;
 EVA MARIA CORDEIRO;Mercado de Capitais;A;19:00;Seg;A;1º;128;A1º;35;47;12;Administração;4
 EVA MARIA CORDEIRO;Mercado de Capitais;A;19:00;Seg;A;1º;128;A1º;35;47;12;Administração;5
 MARA SOARES DE ALMEIDA MOTA;Microbiologia Basica;A;19:00;Seg;A;1º;108;A1º;36;43;7;Farmácia;2
-ANDREIA AGUIAR SOUSA;Modelos de Gestao;A;19:00;Seg;A;1º;105;A1º;31;42;11;Administração;2
-ANDREIA AGUIAR SOUSA;Modelos de Gestao;A;19:00;Seg;A;1º;105;A1º;31;42;11;Administração;3
+ANDREIA AGUIAR SOUSA;Modelos de Gestao;A;19:00;Seg;A;1º;125;A1º;31;42;11;Administração;2
+ANDREIA AGUIAR SOUSA;Modelos de Gestao;A;19:00;Seg;A;1º;125;A1º;31;42;11;Administração;3
 CAMILA LEITE PEREIRA;Neuroanatomofisiologia;A;19:00;Seg;A;1º;109;A1º;46;60;14;Psicologia;1
 CAMILA LEITE PEREIRA;Neuroanatomofisiologia;A;19:00;Seg;A;1º;109;A1º;46;60;14;Psicologia;2
 AMANDA;Nutricao Animal;A;19:00;Seg;A;1º;110;A1º;26;37;11;Medicina Veterinária;4
@@ -129,8 +129,8 @@ FERNANDA DE SOUZA PADUA MARQUES;Planejamento Financeiro e Orcamentario;A;19:00;T
 FERNANDA DE SOUZA PADUA MARQUES;Planejamento Financeiro e Orcamentario;A;19:00;Ter;A;1º;110;A1º;29;37;8;Administração;5
 ROSANGELA REIS DA SILVA;Praticas Aplicadas em Bioquimica e Imunologia Clinica;A;19:00;Ter;A;1º;108;A1º;36;43;7;Biomedicina;7
 ROSANGELA REIS DA SILVA;Praticas Aplicadas em Bioquimica e Imunologia Clinica;A;19:00;Ter;A;1º;108;A1º;36;43;7;Biomedicina;8
-EVELLYN CHRISTINE CARVALHO DE SANTANA;Principios de Audiologia;A;19:00;Ter;A;1º;105;A1º;45;42;-3;Fonoaudiologia;1
-EVELLYN CHRISTINE CARVALHO DE SANTANA;Principios de Audiologia;A;19:00;Ter;A;1º;105;A1º;45;42;-3;Fonoaudiologia;2
+EVELLYN CHRISTINE CARVALHO DE SANTANA;Principios de Audiologia;A;19:00;Ter;A;1º;120;A1º;45;48;3;Fonoaudiologia;1
+EVELLYN CHRISTINE CARVALHO DE SANTANA;Principios de Audiologia;A;19:00;Ter;A;1º;120;A1º;45;48;3;Fonoaudiologia;2
 AUGUSTO CAMPOS BUTENCO;Psicopatologia II;A;19:30;Ter;A;1º;131;A1º;16;21;5;Psicologia;7
 WASHINGTON FERREIRA XIMENES DE ALBUQUERQUE;Quimica e Ciencia dos Materiais;A;19:00;Ter;A;1º;135;A1º;16;21;5;Engenharia Elétrica;2
 WASHINGTON FERREIRA XIMENES DE ALBUQUERQUE;Quimica e Ciencia dos Materiais;A;19:00;Ter;A;1º;135;A1º;16;21;5;Engenharia Mecânica;2
@@ -141,7 +141,7 @@ ADERCIO BRAGA SANTANA JUNIOR;Sistemas Digitais e Microprocessadores;A;19:00;Ter;
 ADRIAN BRITO BARTOLOMEU;Tecnologia Farmaceutica II;A;19:00;Ter;A;1º;115;A1º;20;27;7;Farmácia;8
 FABIANE MARINHO GOMES;Teoria Geral do Direito Constitucional;A;19:00;Ter;A;1º;143;A1º;10;20;10;Direito;1
 THIAGO HENRIQUE SILVA;Assistencia Farmaceutica;A;19:00;Qua;A;1º;110;A1º;33;37;4;Farmácia;2
-EDEN GOMES RODRIGUES;Biotecnologia e Producao de Alimentos;A;19:00;Qua;A;1º;136;A1º;38;21;-17;Farmácia;10
+EDEN GOMES RODRIGUES;Biotecnologia e Producao de Alimentos;A;19:00;Qua;A;1º;120;A1º;38;48;10;Farmácia;10
 JEAN JOSE LIMA DE BASTOS;Calculo Diferencial e Integral II;A;19:00;Qua;A;1º;143;A1º;15;20;5;Engenharia Elétrica;2
 JEAN JOSE LIMA DE BASTOS;Calculo Diferencial e Integral II;A;19:00;Qua;A;1º;143;A1º;15;20;5;Engenharia Mecânica;2
 CAIO SALES DA COSTA;Caprinocultura e Ovinocultura;A;19:00;Qua;A;T;1;AT;36;;;Medicina Veterinária;5
@@ -226,8 +226,6 @@ CLAUDIO GUILHERME DOMINGUES CARDOSO;Direito Civil - Contratos;A;19:00;Qui;A;1º;
 CLAUDIO GUILHERME DOMINGUES CARDOSO;Direito Civil - Contratos;A;19:00;Qui;A;1º;128;A1º;40;47;7;Direito;5
 MARA SILVA SARDINHA LISBOA;Direito Civil - Parte Geral;A;19:00;Qui;A;1º;132;A1º;10;20;10;Direito;1
 BRUNA CAMPOS FERREIRA;Direito Civil - Sucessoes;A;19:30;Qui;A;1º;107;A1º;36;42;6;Direito;10
-ALESSAH CAROLYNA DE ANDRADE FERNANDES;Estágio em Saúde Bucal na Atenção Básica III;A;16:00;Qui;;;;;;;;Odontologia;8
-DEBORA DE ANDRADE AZEVEDO;Estágio em Saúde Bucal na Atenção Básica IV;A;16:00;Qui;;;;;;;;Odontologia;9
 LUDMYLLA GOMES E SILVA;Estagio em Urgencias Odontologicas;A;19:00;Qui;A;1º;106;A1º;40;47;7;Odontologia;10
 ALBERTO MARQUES FALEIROS;Etica Profissional em Direito;A;19:00;Qui;A;1º;108;A1º;36;43;7;Direito;6
 BIANCA SOARES PIERRE ASSUMPCAO;Fisica Geral;A;19:00;Qui;A;1º;115;A1º;26;27;1;Agronomia;1
@@ -268,7 +266,7 @@ MARA SOARES DE ALMEIDA MOTA;Cien. Morfofuncionais Bucomaxilofaciais;A;19:00;Sex;
 FERNANDA NATHALY LEITE MARTINS;Cien. Morfofuncionais dos Sistemas Digestorio, Endocrino e Renal;A;19:00;Sex;A;1º;117;A1º;26;28;2;Biomedicina;2
 ADRIANA;Ciencia do Solo - Fertilidade do Solo e Nutricao Mineral de Plantas;A;19:00;Sex;A;1º;116;A1º;20;26;6;Agronomia;2
 ADRIANA;Ciencia do Solo - Fertilidade do Solo e Nutricao Mineral de Plantas;A;19:00;Sex;A;1º;116;A1º;20;26;6;Agronomia;3
-YURI CAVALCANTE BISINOTO;Ciencias Patologicas Bucomaxilofaciais;A;19:00;Sex;A;1º;105;A1º;38;42;4;Odontologia;2
+YURI CAVALCANTE BISINOTO;Ciencias Patologicas Bucomaxilofaciais;A;19:00;Sex;A;1º;125;A1º;38;42;4;Odontologia;2
 FRANCIELLE NUNES DE AZEVEDO;Clinica Integrada de Atencao ao Adolescente;A;20:00;Sex;A;1º;144;A1º;20;24;4;Odontologia;8
 LUDYMILLA DE LIMA LOPES;Clinica Integrada de Atencao ao Idoso;A;18:00;Sex;A;1º;123;A1º;40;41;1;Odontologia;10
 FERNANDA DE SOUZA PADUA MARQUES;Contabilidade Introdutoria;A;19:00;Sex;A;1º;114;A1º;27;30;3;Administração;2
